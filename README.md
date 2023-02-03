@@ -1,2 +1,2 @@
-# 42-C-Pool
- 42 My Pool Projects
+# 42-c-pool
+The pool is cold.
